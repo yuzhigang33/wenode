@@ -1,0 +1,2 @@
+# wenode
+inspired from wego
