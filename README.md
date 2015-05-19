@@ -1,2 +1,2 @@
 # wenode
-inspired from wego
+A weather app for the terminal, inspired from wego.
